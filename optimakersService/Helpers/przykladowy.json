@@ -1,0 +1,20 @@
+{
+  "numer_zamowienia": "ZAM123456",
+  "data_zamowienia": "2024-04-05",
+  "klient": {
+    "nazwa": "Firma ABC",
+    "adres": "ul. Testowa 123, 00-000 Warszawa"
+  },
+  "produkty": [
+    {
+      "nazwa": "Kawa",
+      "ilosc": 100,
+      "jednostka": "kg"
+    },
+    {
+      "nazwa": "Cukier",
+      "ilosc": 50,
+      "jednostka": "kg"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "Mode": "Interval",
+  "ScheduledTime": "19:00",
+  "Interval_Minutes": "1",
+  "FTP_SERVER": "10.10.10.10",
+  "FTP_SERVER_LOGIN": "ftp_test",
+  "FTP_SERVER_PASSWORD": "RXnz9dxkErfz8fwr/foYd6xq9u5ojm49voO/f2mdaV0=",
+  "FTP_DIRECTORY": "/FTP_TEST",
+  "LOCAL_DIRECTORY_PATH": "C:/test",
+  "DB_SERVER": "110.10.10.15",
+  "DB_FILE": "baza_test",
+  "DB_USERNAME": "RXndxkErfz8fwr/foYddsa6xq9u5ojm49voO/f2mdaV0=",
+  "DB_PASSWORD": "RXnz9sskErfz8fwr/foYd6xq9u5ojm49voO/f2mdaV0=",
+  "API_URL": "https://example.com/api/insertData",
+  "API_PASSWORD": "test",
+  "API_USERNAME": "test"
+
+}
